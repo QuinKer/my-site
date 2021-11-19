@@ -1,5 +1,5 @@
 # my-site
-! [BG] (hero-bg.jpg)
+! [BG] (https://github.com/QuinKer/my-site/raw/hero-bg.jpg)
 ! [icon] (icon-css.svg)
 ! [email-f] (icon-email-footer.svg)
 ! [email-h] (icon-email-header.svg)
